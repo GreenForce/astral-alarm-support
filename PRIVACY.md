@@ -55,4 +55,4 @@ If this policy changes, the updated version will be published at the same addres
 
 ## Contact
 
-Questions about this policy: [your name or company], [your contact email]
+Questions about this policy: [i.Goosh], [injee@yahoo.com]
