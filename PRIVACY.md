@@ -41,9 +41,9 @@ The app starts a workout session overnight so that the watch keeps measuring you
 
 The app schedules a local notification on your watch as a backup alarm. It is created and delivered on the device; no push notification service is involved.
 
-## Children
+## Age
 
-The app is not directed at children under 13 and does not knowingly collect information from anyone.
+The app is intended for adults aged 18 and over and is rated 18+ on the App Store. It does not knowingly collect information from anyone.
 
 ## Not a medical device
 
